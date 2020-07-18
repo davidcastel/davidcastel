@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I am a student at Drexel University studing Computer Science
+
+Here are a couple of things that I am currently up to: 
+ - 🤔 Procrasinating
+ - 📫 Attempting to learn IOS development on windows
+ - 🌱 Working on my current skills
+ - ⚡ Learning new skills throughout my journey
+
+I am always learning something new everyday, so excuse my apperance for now :smile:
+
+
 <!--
 **davidcastel/davidcastel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
