@@ -15,6 +15,8 @@ You can find me here:
  <a href="https://www.linkedin.com/in/davidcastel"><img src="https://img.shields.io/badge/LinkedIn-_.svg?style=for-the-badge&logo=linkedin&color=blue" alt="LinkedIn"></a>
 </p>
 
+[![Badge](https://ei0ufnyiilgd.runkit.sh)](https://git.io/gradientbadge)
+
 <!--
 **davidcastel/davidcastel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
