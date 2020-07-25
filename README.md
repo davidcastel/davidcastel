@@ -1,7 +1,7 @@
 ### David Castellanos-Benito 👋 
 
 <p>
- Hey, I am David (he/him) -- a Junior Developer at <a href="https://draftstudios.io/">DraftStudios.io</a> working with non-profit and startup organization. I am also a full time student at <span style="color: blue;"> Drexel University </span> always trying to learn something new. 
+ Hey, I am David (he/him) -- a Junior Developer at <a href="https://draftstudios.io/">DraftStudios.io</a>. I am also a full time student at <span style="color: blue;"> Drexel University </span> always trying to learn something new about myself and the world. 
 </p>
 
 Here are a couple of things that I am currently up to: 
@@ -9,6 +9,8 @@ Here are a couple of things that I am currently up to:
  - 📫 Attempting to learn IOS development on windows
  - 🌱 Working on my current skills
  - ⚡ Learning new skills throughout my journey
+ 
+ I am working on a couple of small projects but who knows how they will turn out :eyes:
 
 You can find me here:
 <p>
