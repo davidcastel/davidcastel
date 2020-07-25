@@ -5,10 +5,10 @@
 </p>
 
 Here are a couple of things that I am currently up to: 
- - :computer: Currently focused in web-devlopment but I don't know what I am doing 99.9% of the time :fire:
+ - :computer: Currently focused in web-devlopment while clueless 99.9% of the time
  - 📫 Attempting to learn IOS development on windows
- - 🌱 Working on my current skills
- - ⚡ Learning new skills throughout my journey
+ - 🌱 Trying to better my current skills
+ - ⚡ Just doing quarantine things
  
  I am working on a couple of small projects but who knows how they will turn out :eyes:
 
