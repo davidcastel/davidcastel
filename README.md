@@ -11,6 +11,7 @@ Here are a couple of things that I am currently up to:
  - 🌱 Trying to better my current skills
  - ⚡ Just doing quarantine things
  
+ 
  I am working on a couple of small projects so wait and see how they turn *out* :eyes:
 
 You can find me here:
@@ -19,4 +20,4 @@ You can find me here:
 </p>
 
 
-I am always learning something new everyday, so excuse my apperance for now :smile:
+I am always trying to learning something new everyday, so excuse my apperance for now :smile:
