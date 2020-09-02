@@ -11,10 +11,7 @@ Here are a couple of things that I am currently up to:
  - 🌱 Trying to better my current skills
  - ⚡ Just doing quarantine things
  
- 
- I am working on a couple of small projects so wait and see how they turn *out* :eyes:
-
-You can find me here:
+You can find me in the links below:
 <p>
  <a href="https://www.linkedin.com/in/davidcastel"><img src="https://img.shields.io/badge/LinkedIn-_.svg?style=for-the-badge&logo=linkedin&color=blue" alt="LinkedIn"></a>
 </p>
