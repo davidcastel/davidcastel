@@ -6,10 +6,13 @@
 
 Here are a couple of things that I am currently up to: 
  - :computer: Currently focused in web-devlopment while being 99.9% clueless all the time
- - :art: Currently focused on front-end Development but I want to get into back-end Development
+ - :art: Currently focused on front-end Development but I am interested in back-end Development
  - 📫 Attempting to learn IOS development on windows
  - 🌱 Trying to better my current skills
+ - :thinking: Trying to figure out what _JaVaScRiPt_ is
  - ⚡ Just doing quarantine things
+ 
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidcastel&layout=compact&hide=vue&theme=prussian)](https://github.com/davidcastel/)
 
