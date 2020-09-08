@@ -19,6 +19,8 @@ Here are a couple of things that I am currently up to:
 You can find me in the links below:
 <p>
  <a href="https://www.linkedin.com/in/davidcastel"><img src="https://img.shields.io/badge/LinkedIn-_.svg?style=for-the-badge&logo=linkedin&color=blue" alt="LinkedIn"></a>
+ <a href="https://www.freecodecamp.org/davidcastel"><img src="https://img.shields.io/badge/FreeCodeCamp-_.svg?style=for-the-badge&logo=FreeCodeCamp&color=black" alt="FreeCodeCamp"></a>
+ <a href="https://codepen.io/davidcastel"><img src="https://img.shields.io/badge/CodePen-_.svg?style=for-the-badge&logo=CodePen&color=grey" alt="CodePen"></a>
 </p>
 
 
