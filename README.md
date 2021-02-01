@@ -1,4 +1,4 @@
-### Hi, my name is David Castellanos-Benito 👋 
+### Hi, my name is David  👋 
 
 <p align="center">
  <em>I am a Junior Developer at</em> <a href="https://draftstudios.io/" target="_blank">DraftStudios.io</a>. <em>I am also a full time student at Drexel University </span> always trying to learn something new about myself and the world.</em>
