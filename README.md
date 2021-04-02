@@ -4,6 +4,10 @@
  <em>I am a Junior Developer at</em> <a href="https://draftstudios.io/" target="_blank">DraftStudios.io</a>. <em>I am also a full time student at Drexel University </span> always trying to learn something new about myself and the world.</em>
 </p>
 
+<p align="center">
+ <img src="/imgs/davidskyline.gif" alt="David Skyline 2020" >
+</p>
+
 Here are a couple of things that I am currently up to: 
  - :computer: Currently focused in web-devlopment while being 99.9% clueless all the time
  - :art: Currently focused on front-end Development but I am interested in back-end Development
@@ -37,4 +41,7 @@ https://github.com/anuraghazra/github-readme-stats/
 
 Github Badge:
 https://shields.io/
+
+Github Skyline:
+https://skyline.github.com/
 -->
