@@ -1,7 +1,7 @@
 ### Hi, my name is David  👋 
 
 <p align="center">
- <em>I am a Junior Developer at</em> Draft Studios. <em>I am also a full time student at Drexel University </span> always trying to learn something new about myself and the world.</em>
+ <em>I am a Developer at</em> Draft Studios. <em>I am also a full time student at Drexel University </span> always trying to learn something new about myself and the world.</em>
 </p>
 
 <p align="center">
@@ -14,6 +14,7 @@ Here are a couple of things that I am currently up to:
  - 🌱 Trying to better my current skills
  - :thinking: Trying to figure out what _JaVaScRiPt_ is
  - ⚡ Just doing quarantine things
+ - :godmode: Currently working through the Odin Project
  
  
 
