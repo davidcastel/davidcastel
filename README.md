@@ -1,7 +1,7 @@
 ### Hi, my name is David  👋 
 
 <p align="center">
- <em>I am a Developer at</em> Draft Studios. <em>I am also a full time student at Drexel University </span> always trying to learn something new about myself and the world.</em>
+ <em>I am a Developer at</em> Coded by Ventures. <em>I am also a full time student at Drexel University </span> always trying to learn something new about myself and the world.</em>
 </p>
 
 <p align="center">
@@ -9,12 +9,12 @@
 </p>
 
 Here are a couple of things that I am currently up to: 
- - :computer: Currently focused in web-devlopment while being 99.9% clueless all the time
- - :art: Currently focused on front-end Development but I am interested in back-end Development
+ - :computer: Currently focused in web-devlopment while also training my body to endure marathons
+ - :art: Currently focused on front-end Development but I am interested in back-end Development, with a sprinkle of database management
  - 🌱 Trying to better my current skills
- - :thinking: Trying to figure out what _JaVaScRiPt_ is
- - ⚡ Just doing quarantine things
- - :godmode: Currently working through the Odin Project
+    - [ improve problem solving skills, understand expressJS better, learn to manage data more efficiently]
+ - :thinking: Having fun to figuring out _JaVaScRiPt_ 
+ - :godmode: Currently working through the Odin Project - The JavaScript Focus
  
  
 
